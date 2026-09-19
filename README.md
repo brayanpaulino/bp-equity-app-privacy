@@ -1,2 +1,6 @@
-# bp-equity-app-privacy
-Public privacy policies for BP EQUITY HOLDINGS LLC App Store apps
+# BP EQUITY HOLDINGS LLC App Privacy Policies
+
+- [BibleAI Key](./bibleai-key/)
+- [QuickPDF AI](./quickpdf-ai/)
+
+Contact: Info@BPequityholdings.com
